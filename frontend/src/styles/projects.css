@@ -150,6 +150,10 @@ footer hr {
     color: var(--text-muted);
 }
 
+#icons{
+    height: 20px;
+    width: 20px;
+}
 footer small {
     color: #777777;
     font-size: 0.85rem;
