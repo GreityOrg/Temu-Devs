@@ -75,7 +75,7 @@ git config --global --list
 If you haven’t cloned the project yet:
 ```bash
 git clone https://github.com/GreityOrg/Temu-Devs.git
-cd REPO_NAME
+cd Temu-Devs
 ```
 ### 2️⃣ Fetch All Branches
 To make sure you have the latest:
